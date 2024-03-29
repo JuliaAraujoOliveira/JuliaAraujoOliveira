@@ -1,6 +1,6 @@
 ### Hello i'm Julia Araujo 👋
-- 🌱 Estudante de Sistemas de Informação (SPtech)
-- 📫 Contate-me no email: julia.oliveira@sptech.school
+- 🌱 information systems student (SPtech)
+- 📫 Contact: julia.oliveira@sptech.school
 -  😄 Pronouns: She/her
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaAraujoOliveira&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)<br>
