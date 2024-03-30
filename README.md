@@ -4,7 +4,7 @@
 -  😄 Pronouns: She/her
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaAraujoOliveira&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaAraujoOliveira&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaAraujoOliveira&layout=compact&_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
   <div>
      <img align="center" src="https://icongr.am/devicon/css3-original.svg?size=50&color=60307e">
