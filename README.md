@@ -3,9 +3,8 @@
 - 📫 Contact: julia.oliveira@sptech.school
 -  😄 Pronouns: She/her
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaAraujoOliveira&show_icons=true&theme=material-palenight)](https://github.com/JuliaAraujoOliveira/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaAraujoOliveira&layout=compact&_icons=true&theme=material-palenight)](https://github.com/JuliaAraujoOliveira/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaAraujoOliveira&show&count_private=true_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaAraujoOliveira&count_private=true&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
   <div>
      <img align="center" src="https://icongr.am/devicon/css3-original.svg?size=50&color=60307e">
      <img align="center" src="https://icongr.am/devicon/html5-original.svg?size=50&color=60307e">
