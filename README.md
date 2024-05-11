@@ -1,5 +1,5 @@
 ### Hello i'm Julia Araujo 👋
-- 🌱 information systems student (SPtech- São Paulo Tech School)
+- 🌱 information Systems student (SPtech- São Paulo Tech School)
 - 📫 Contact: julia.oliveira@sptech.school 
 -  😄 Pronouns: She/her
 
