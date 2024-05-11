@@ -4,8 +4,8 @@
 -  😄 Pronouns: She/her
 
   <div>
-   <img height="180rem" src='https://github-readme-stats.vercel.app/api?username=JuliaAraujoOliveira&show&countprivate=true&icons=true&theme=material-palenight'>
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaAraujoOliveira&countprivate=true&layout=compact&show_icons=true&theme=material-palenight">
+   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=JuliaAraujoOliveira&show&countprivate=true&icons=true&theme=material-palenight'>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaAraujoOliveira&countprivate=true&layout=compact&show_icons=true&theme=material-palenight">
   </div>
 
 
